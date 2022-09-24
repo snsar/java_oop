@@ -14,8 +14,9 @@ public class J01001 {
             int area = length * width;
             int perimeter = (width + length) * 2;
             System.out.printf("%d %d", perimeter, area);
-        }
 
+        }
+        sc.close();
     }
 
 }

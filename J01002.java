@@ -13,5 +13,6 @@ public class J01002 {
             System.out.println(S);
             T--;
         }
+
     }
 }

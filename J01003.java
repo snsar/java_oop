@@ -19,5 +19,6 @@ public class J01003 {
             double res = -(double) b / (double) a;
             System.out.printf("%.2f", res);
         }
+
     }
 }
